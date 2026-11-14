@@ -1,0 +1,321 @@
+{
+  "version": 1,
+  "edition": "2026-11-14-v5",
+  "images": [
+    {
+      "offer_id": "marker_organizer_grid_inwall_4x4",
+      "layout": "4x4",
+      "order": 1,
+      "path": "images/marker-organizers/v5/4x4/card-01.png",
+      "sha256": "1371a868e1e1c2f2c7f40313f9007b21db64fb73607832aa46d30573a565db9e",
+      "width": 1086,
+      "height": 1448
+    },
+    {
+      "offer_id": "marker_organizer_grid_inwall_4x4",
+      "layout": "4x4",
+      "order": 2,
+      "path": "images/marker-organizers/v5/4x4/card-02.png",
+      "sha256": "50ed76dcf525ff78cc0fcf7a9573ef3d0c10fd43a6e6b8dc8c00eee2089407e8",
+      "width": 1086,
+      "height": 1448
+    },
+    {
+      "offer_id": "marker_organizer_grid_inwall_4x4",
+      "layout": "4x4",
+      "order": 3,
+      "path": "images/marker-organizers/v5/4x4/card-03.png",
+      "sha256": "5b531ec1f4d6bceea6105c6b8cf8626e4fcffaa0aea4fcf43e6afd6baba1ead0",
+      "width": 1086,
+      "height": 1448
+    },
+    {
+      "offer_id": "marker_organizer_grid_inwall_4x4",
+      "layout": "4x4",
+      "order": 4,
+      "path": "images/marker-organizers/v5/4x4/card-04.png",
+      "sha256": "0229d12e276e3fcf699901e6f185ba88c256e03a95c196c17599d3567b622965",
+      "width": 1086,
+      "height": 1448
+    },
+    {
+      "offer_id": "marker_organizer_grid_inwall_4x4",
+      "layout": "4x4",
+      "order": 5,
+      "path": "images/marker-organizers/v5/4x4/card-05.png",
+      "sha256": "62537da698ffa8f8bfd9251095cd353e1c045520d8d6bc492febb589058b81d4",
+      "width": 1086,
+      "height": 1448
+    },
+    {
+      "offer_id": "marker_organizer_grid_inwall_4x4",
+      "layout": "4x4",
+      "order": 6,
+      "path": "images/marker-organizers/v5/4x4/card-06.png",
+      "sha256": "631612d43dd8a1187494ef9045694bf2c703f95cef55221b849feeb67cf7ee02",
+      "width": 1086,
+      "height": 1448
+    },
+    {
+      "offer_id": "marker_organizer_grid_inwall_4x4",
+      "layout": "4x4",
+      "order": 7,
+      "path": "images/marker-organizers/v5/4x4/card-07.png",
+      "sha256": "25791839cb0d18475452d6ab908211c74ee5a2524c05a48e1056d3ac50c87252",
+      "width": 1086,
+      "height": 1448
+    },
+    {
+      "offer_id": "marker_organizer_grid_inwall_4x8",
+      "layout": "4x8",
+      "order": 1,
+      "path": "images/marker-organizers/v5/4x8/card-01.png",
+      "sha256": "918af226376b7a1d2f1e34e556a73b019d6ddeb7a6dc1d05441802766c2ac427",
+      "width": 1086,
+      "height": 1448
+    },
+    {
+      "offer_id": "marker_organizer_grid_inwall_4x8",
+      "layout": "4x8",
+      "order": 2,
+      "path": "images/marker-organizers/v5/4x8/card-02.png",
+      "sha256": "8a1f73c0f3c5f373b40b9e8fc78b2992d86b459a815cb284a4ba275c73a0927a",
+      "width": 1086,
+      "height": 1448
+    },
+    {
+      "offer_id": "marker_organizer_grid_inwall_4x8",
+      "layout": "4x8",
+      "order": 3,
+      "path": "images/marker-organizers/v5/4x8/card-03.png",
+      "sha256": "13754b233c0315809bf6e337942402310ea28641ec45bdd96f6cc58465670291",
+      "width": 1086,
+      "height": 1448
+    },
+    {
+      "offer_id": "marker_organizer_grid_inwall_4x8",
+      "layout": "4x8",
+      "order": 4,
+      "path": "images/marker-organizers/v5/4x8/card-04.png",
+      "sha256": "086c68004ff1329ccc59a63cccf081ad550e4c55c0bc6c7c98407e91e596ac2a",
+      "width": 1086,
+      "height": 1448
+    },
+    {
+      "offer_id": "marker_organizer_grid_inwall_4x8",
+      "layout": "4x8",
+      "order": 5,
+      "path": "images/marker-organizers/v5/4x8/card-05.png",
+      "sha256": "dd947012def01a526442ffab9dbda0da953fdf4a614e0fcbe529a85fc6c5c165",
+      "width": 1086,
+      "height": 1448
+    },
+    {
+      "offer_id": "marker_organizer_grid_inwall_4x8",
+      "layout": "4x8",
+      "order": 6,
+      "path": "images/marker-organizers/v5/4x8/card-06.png",
+      "sha256": "817faf5cb966ce3fa06729f1236f344531eea9857ae4a9f43a2900ccc238ace7",
+      "width": 1086,
+      "height": 1448
+    },
+    {
+      "offer_id": "marker_organizer_grid_inwall_4x8",
+      "layout": "4x8",
+      "order": 7,
+      "path": "images/marker-organizers/v5/4x8/card-07.png",
+      "sha256": "25791839cb0d18475452d6ab908211c74ee5a2524c05a48e1056d3ac50c87252",
+      "width": 1086,
+      "height": 1448
+    },
+    {
+      "offer_id": "marker_organizer_grid_inwall_4x12",
+      "layout": "4x12",
+      "order": 1,
+      "path": "images/marker-organizers/v5/4x12/card-01.png",
+      "sha256": "4b1f3e03e07bdafd1a412fd6a19975ba308840882e8e04cfb3ee37d3f6d9def3",
+      "width": 1086,
+      "height": 1448
+    },
+    {
+      "offer_id": "marker_organizer_grid_inwall_4x12",
+      "layout": "4x12",
+      "order": 2,
+      "path": "images/marker-organizers/v5/4x12/card-02.png",
+      "sha256": "5be4622c3b7377d04c077159251fa0755b7ff3c129c30fae4dab3f8875b3ab18",
+      "width": 1086,
+      "height": 1448
+    },
+    {
+      "offer_id": "marker_organizer_grid_inwall_4x12",
+      "layout": "4x12",
+      "order": 3,
+      "path": "images/marker-organizers/v5/4x12/card-03.png",
+      "sha256": "4b8ba6cadc035aaff54b3082d5708384d9b5aa47ee112d72d9056a3dcbfc3f01",
+      "width": 1086,
+      "height": 1448
+    },
+    {
+      "offer_id": "marker_organizer_grid_inwall_4x12",
+      "layout": "4x12",
+      "order": 4,
+      "path": "images/marker-organizers/v5/4x12/card-04.png",
+      "sha256": "6e7033dbe1b7cde7eace08bbf3ae4c358ab3e5f230fb98c55e324f8d3df4ebd8",
+      "width": 1086,
+      "height": 1448
+    },
+    {
+      "offer_id": "marker_organizer_grid_inwall_4x12",
+      "layout": "4x12",
+      "order": 5,
+      "path": "images/marker-organizers/v5/4x12/card-05.png",
+      "sha256": "ec24bcbee72872b430e16618e37252bd1e8a15b05edb69c032354ce3f65ad36c",
+      "width": 1086,
+      "height": 1448
+    },
+    {
+      "offer_id": "marker_organizer_grid_inwall_4x12",
+      "layout": "4x12",
+      "order": 6,
+      "path": "images/marker-organizers/v5/4x12/card-06.png",
+      "sha256": "fe5d8c9293a212f73305bade1497c5eb1c53a4f4aa2016a0470248c5598a012f",
+      "width": 1086,
+      "height": 1448
+    },
+    {
+      "offer_id": "marker_organizer_grid_inwall_4x12",
+      "layout": "4x12",
+      "order": 7,
+      "path": "images/marker-organizers/v5/4x12/card-07.png",
+      "sha256": "25791839cb0d18475452d6ab908211c74ee5a2524c05a48e1056d3ac50c87252",
+      "width": 1086,
+      "height": 1448
+    },
+    {
+      "offer_id": "marker_organizer_grid_inwall_8x8",
+      "layout": "8x8",
+      "order": 1,
+      "path": "images/marker-organizers/v5/8x8/card-01.png",
+      "sha256": "1f7c0a1789f26a47510fc6146696c02b74f2aa5a40cb7f505d35443836401d06",
+      "width": 1086,
+      "height": 1448
+    },
+    {
+      "offer_id": "marker_organizer_grid_inwall_8x8",
+      "layout": "8x8",
+      "order": 2,
+      "path": "images/marker-organizers/v5/8x8/card-02.png",
+      "sha256": "b31e4753ead7354ebde0fdd5f8203b8a7e22159f9961965bfe1a3b82e3e70f11",
+      "width": 1086,
+      "height": 1448
+    },
+    {
+      "offer_id": "marker_organizer_grid_inwall_8x8",
+      "layout": "8x8",
+      "order": 3,
+      "path": "images/marker-organizers/v5/8x8/card-03.png",
+      "sha256": "40e5b4a3d991dec6e1c98290a27779359666986ab7b990f7b3f22472eb91a05b",
+      "width": 1086,
+      "height": 1448
+    },
+    {
+      "offer_id": "marker_organizer_grid_inwall_8x8",
+      "layout": "8x8",
+      "order": 4,
+      "path": "images/marker-organizers/v5/8x8/card-04.png",
+      "sha256": "8d9edaacf2f2835e09dabddc95d3977f8550a5ffdea3e56932fbbc9e39a13403",
+      "width": 1086,
+      "height": 1448
+    },
+    {
+      "offer_id": "marker_organizer_grid_inwall_8x8",
+      "layout": "8x8",
+      "order": 5,
+      "path": "images/marker-organizers/v5/8x8/card-05.png",
+      "sha256": "f5758a211d9221973066e34fb0dc620a5fd8e3930c0d1cf1343e44506cc028bb",
+      "width": 1086,
+      "height": 1448
+    },
+    {
+      "offer_id": "marker_organizer_grid_inwall_8x8",
+      "layout": "8x8",
+      "order": 6,
+      "path": "images/marker-organizers/v5/8x8/card-06.png",
+      "sha256": "4669344a68b3d68cb1bbf9fb4095c3dfc804deb516c7151e1393521313751eea",
+      "width": 1086,
+      "height": 1448
+    },
+    {
+      "offer_id": "marker_organizer_grid_inwall_8x8",
+      "layout": "8x8",
+      "order": 7,
+      "path": "images/marker-organizers/v5/8x8/card-07.png",
+      "sha256": "25791839cb0d18475452d6ab908211c74ee5a2524c05a48e1056d3ac50c87252",
+      "width": 1086,
+      "height": 1448
+    },
+    {
+      "offer_id": "marker_organizer_grid_inwall_8x12",
+      "layout": "8x12",
+      "order": 1,
+      "path": "images/marker-organizers/v5/8x12/card-01.png",
+      "sha256": "1dbb352440af0a267de0969b7d65a5c5d49884fbd34748b5294fd3e1855ae998",
+      "width": 1086,
+      "height": 1448
+    },
+    {
+      "offer_id": "marker_organizer_grid_inwall_8x12",
+      "layout": "8x12",
+      "order": 2,
+      "path": "images/marker-organizers/v5/8x12/card-02.png",
+      "sha256": "e905ed7526450b640f7cf29fa9ea236120c9b57fdb736589f895483759ab849f",
+      "width": 1086,
+      "height": 1448
+    },
+    {
+      "offer_id": "marker_organizer_grid_inwall_8x12",
+      "layout": "8x12",
+      "order": 3,
+      "path": "images/marker-organizers/v5/8x12/card-03.png",
+      "sha256": "cf23fd08baa1ccef6fd2d859a79125a94d963877ff7153a4f3ea54bda6d5b68e",
+      "width": 1086,
+      "height": 1448
+    },
+    {
+      "offer_id": "marker_organizer_grid_inwall_8x12",
+      "layout": "8x12",
+      "order": 4,
+      "path": "images/marker-organizers/v5/8x12/card-04.png",
+      "sha256": "0dd04e84f1630b1aeee031ae14e19beb850dca21ca367cfb817269feddf10141",
+      "width": 1086,
+      "height": 1448
+    },
+    {
+      "offer_id": "marker_organizer_grid_inwall_8x12",
+      "layout": "8x12",
+      "order": 5,
+      "path": "images/marker-organizers/v5/8x12/card-05.png",
+      "sha256": "5ad11073229324039af88ed22df23f08555c29f5323309df90bb238ecadf37c6",
+      "width": 1086,
+      "height": 1448
+    },
+    {
+      "offer_id": "marker_organizer_grid_inwall_8x12",
+      "layout": "8x12",
+      "order": 6,
+      "path": "images/marker-organizers/v5/8x12/card-06.png",
+      "sha256": "df2de39d355c87668993aa413eb2f0bbb97994057778d26e9d192f5826bc89d9",
+      "width": 1086,
+      "height": 1448
+    },
+    {
+      "offer_id": "marker_organizer_grid_inwall_8x12",
+      "layout": "8x12",
+      "order": 7,
+      "path": "images/marker-organizers/v5/8x12/card-07.png",
+      "sha256": "25791839cb0d18475452d6ab908211c74ee5a2524c05a48e1056d3ac50c87252",
+      "width": 1086,
+      "height": 1448
+    }
+  ]
+}
